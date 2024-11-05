@@ -119,3 +119,5 @@
 - **Device Management System**: Hardware devices ko drivers ke zariye manage karta hai, I/O operations ko handle karta hai, device allocation aur interrupts ko control karta hai.
 
 ---
+
+
