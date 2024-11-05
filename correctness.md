@@ -1,6 +1,15 @@
-Certainly! Here’s a detailed presentation on **Correctness** in the 7 Cs of Communication, with extended examples in both English and Roman Urdu.
+### **Correctness**
+   - **Definition**: Correctness ensures that the information provided is accurate and free from errors. This includes correct grammar, spelling, and factual accuracy.
+   - **Example**: Double-check names, dates, and facts in an email to ensure there are no mistakes, as errors can lead to misunderstandings or a lack of credibility.
 
----
+### 7. **Correctness (Sahi aur Durust)**
+
+   - **Explanation**: Correctness ka matlab hai ke aapki information aur grammar sahi ho. Yeh messages ko trustworthy banati hai aur misunderstanding ko rokti hai.
+   - **Real-Life Example**: Sochiye aap kisi ko email mein batate hain ke meeting Tuesday ko hai jab ke asal mein wo Thursday ko hai. Yeh ghalat information confusion create kar sakti hai aur doosre logon ke schedule mein masla bhi la sakti hai. Jab aap apne messages ko double check karenge aur dates aur facts sahi likhenge, toh aapki communication reliable hogi aur sab ke kaam smoothly chalenge.
+
+
+
+
 
 ### **Correctness in Communication (Durusti)**
 
